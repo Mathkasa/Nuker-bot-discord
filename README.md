@@ -87,7 +87,7 @@ https://replit.com/import/github
 
 Example:
 
-<img width="1011" height="749" alt="Replit Example" src="https://cdn.discordapp.com/attachments/1496280130555875480/1496830243368075325/IMG_20260423_130038.jpg?ex=69eb4f4b&is=69e9fdcb&hm=44b301e8a1dc71d397639b41eaacfc8502414058237c29d2fa435f29816b1280&" />
+<img width="1011" height="749" alt="Replit Example" src="https://cdhttps://cdn.discordapp.com/attachments/1496280130555875480/1496830242981937152/IMG_20260423_130115.jpg?ex=69eb4f4b&is=69e9fdcb&hm=8c0c0b619f2b5c704d561e44ffdfa4850929fce80bfdcfd44d44fbd1a53ab9ad&" />
 
 ---
 
@@ -99,7 +99,7 @@ https://discord.com/developers/applications
 
 Create a new application.
 
-<img width="1875" height="954" alt="Create App" src="https://github.com/user-attachments/assets/6a210b2c-2aef-468b-97e8-ed7d68e96c92" />
+<img width="1875" height="954" alt="Create App" src="https://cdn.discordapp.com/attachments/1496280130555875480/1496830243368075325/IMG_20260423_130038.jpg?ex=69eb4f4b&is=69e9fdcb&hm=44b301e8a1dc71d397639b41eaacfc8502414058237c29d2fa435f29816b1280&" />
 
 Open the **Bot section** and reset the token.
 
