@@ -87,7 +87,7 @@ https://replit.com/import/github
 
 Example:
 
-<img width="1011" height="749" alt="Replit Example" src="https://cdhttps://cdn.discordapp.com/attachments/1496280130555875480/1496830242981937152/IMG_20260423_130115.jpg?ex=69eb4f4b&is=69e9fdcb&hm=8c0c0b619f2b5c704d561e44ffdfa4850929fce80bfdcfd44d44fbd1a53ab9ad&" />
+<img width="1011" height="749" alt="Replit Example" src="https://cdn.discordapp.com/attachments/1496280130555875480/1496830242981937152/IMG_20260423_130115.jpg?ex=69eb4f4b&is=69e9fdcb&hm=8c0c0b619f2b5c704d561e44ffdfa4850929fce80bfdcfd44d44fbd1a53ab9ad&" />
 
 ---
 
